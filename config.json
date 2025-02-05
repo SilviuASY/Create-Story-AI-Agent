@@ -1,0 +1,6 @@
+{
+  "privateKey": "PRIVATE_KEY", 
+  "rpcUrl": "https://odyssey.storyrpc.io",
+  "apiUrl": "https://odyssey.storyscan.xyz/api/",
+  "agentName": "MyStoryAgent"
+}
